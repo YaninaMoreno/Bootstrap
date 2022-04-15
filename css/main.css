@@ -261,7 +261,7 @@ body{
     }
 
     .padr .gradientes{
-        background-image: radial-gradient(#517947, #3f771f);
+        background-image: radial-gradient(#517947, #427723);
         grid-area: gradientes;
         padding: 0;
         margin: 0
